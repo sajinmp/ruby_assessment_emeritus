@@ -54,3 +54,6 @@ dump.rdb
 # Ignore version managers config files
 .tool-versions
 .envrc
+
+# Ignore sqlite dbs
+*.sqlite3
